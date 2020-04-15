@@ -1,0 +1,6 @@
+C:\Dados\Projetos2019\ClassesTestar\ClassesTestar\bin\Debug\ClassesTestar.dll
+C:\Dados\Projetos2019\ClassesTestar\ClassesTestar\bin\Debug\ClassesTestar.pdb
+C:\Dados\Projetos2019\ClassesTestar\ClassesTestar\obj\Debug\ClassesTestar.csprojAssemblyReference.cache
+C:\Dados\Projetos2019\ClassesTestar\ClassesTestar\obj\Debug\ClassesTestar.csproj.CoreCompileInputs.cache
+C:\Dados\Projetos2019\ClassesTestar\ClassesTestar\obj\Debug\ClassesTestar.dll
+C:\Dados\Projetos2019\ClassesTestar\ClassesTestar\obj\Debug\ClassesTestar.pdb

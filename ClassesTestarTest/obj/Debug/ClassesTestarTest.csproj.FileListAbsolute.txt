@@ -1,0 +1,16 @@
+C:\Dados\Projetos2019\ClassesTestar\ClassesTestarTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Dados\Projetos2019\ClassesTestar\ClassesTestarTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Dados\Projetos2019\ClassesTestar\ClassesTestarTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Dados\Projetos2019\ClassesTestar\ClassesTestarTest\bin\Debug\ClassesTestarTest.dll
+C:\Dados\Projetos2019\ClassesTestar\ClassesTestarTest\bin\Debug\ClassesTestarTest.pdb
+C:\Dados\Projetos2019\ClassesTestar\ClassesTestarTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Dados\Projetos2019\ClassesTestar\ClassesTestarTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Dados\Projetos2019\ClassesTestar\ClassesTestarTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Dados\Projetos2019\ClassesTestar\ClassesTestarTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Dados\Projetos2019\ClassesTestar\ClassesTestarTest\obj\Debug\ClassesTestarTest.csprojAssemblyReference.cache
+C:\Dados\Projetos2019\ClassesTestar\ClassesTestarTest\obj\Debug\ClassesTestarTest.csproj.CoreCompileInputs.cache
+C:\Dados\Projetos2019\ClassesTestar\ClassesTestarTest\obj\Debug\ClassesTestarTest.csproj.CopyComplete
+C:\Dados\Projetos2019\ClassesTestar\ClassesTestarTest\obj\Debug\ClassesTestarTest.dll
+C:\Dados\Projetos2019\ClassesTestar\ClassesTestarTest\obj\Debug\ClassesTestarTest.pdb
+C:\Dados\Projetos2019\ClassesTestar\ClassesTestarTest\bin\Debug\ClassesTestar.dll
+C:\Dados\Projetos2019\ClassesTestar\ClassesTestarTest\bin\Debug\ClassesTestar.pdb
